@@ -1,1 +1,1 @@
-# American Sign Language (ASL) Recognition using Deep Learning
+# American Sign Language (ASL) Alphabet Recognition using Deep Learning
